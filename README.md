@@ -1,2 +1,2 @@
 # dimple
-dimple repo
+dimple repo is one of the repository
